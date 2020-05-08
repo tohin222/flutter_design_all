@@ -31,7 +31,7 @@ class Position extends StatelessWidget {
                   radius: 30,
                   backgroundColor: Colors.blue,
                 )
-              )
+              ),
             ],
           ),
         ),
